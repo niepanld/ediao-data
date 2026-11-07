@@ -1,9 +1,9 @@
 {
- "version": 17,
- "file": "web/index.v17.html.gz",
- "sha256": "c39c7596ff3156f81f7c4e3a0d007a5b588bb16fb022c51bbcc92f80f251620c",
- "size": 286588,
+ "version": 4000,
+ "file": "web/index.v4000.html.gz",
+ "sha256": "4268ca9f852f9bc4f2a39bf958fdd48a44ac78716bbff0a43a099ca47385731e",
+ "size": 286914,
  "min_api": 1,
- "notes": "界面 v17：完整验证 toast + 待生效 + 立即生效（toast 层级已修）",
- "ts": 1794077575
+ "notes": "版本号统一为 v4.000；检查时显示「检测中…」；去掉可热更范围说明",
+ "ts": 1794078899
 }
