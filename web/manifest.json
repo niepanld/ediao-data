@@ -1,9 +1,9 @@
 {
- "version": 3,
- "file": "web/index.v3.html.gz",
- "sha256": "762c339ed7e421b62169f4e6df3802d376a6407126cf57f0681292d970b3c7da",
- "size": 284751,
+ "version": 4,
+ "file": "web/index.v4.html.gz",
+ "sha256": "f1a8c956e358c27b17a869dcd67ac49937a18d5d80304fbe5e3b7404482b9990",
+ "size": 284815,
  "min_api": 1,
- "notes": "界面 v3：更新日志新增一条「由远端下发」标记，用于验证热更链路",
- "ts": 1794071904
+ "notes": "界面 v4：检查更新改为单次请求（避免两次取清单撞上不同 CDN 缓存）",
+ "ts": 1794072201
 }
