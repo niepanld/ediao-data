@@ -1,9 +1,9 @@
 {
- "version": 2,
- "file": "web/index.v2.html.gz",
- "sha256": "8588acee9324643713ba6a1ecd989c5744b6b364fdfccc5734e9b11466bcae58",
- "size": 284695,
+ "version": 3,
+ "file": "web/index.v3.html.gz",
+ "sha256": "762c339ed7e421b62169f4e6df3802d376a6407126cf57f0681292d970b3c7da",
+ "size": 284751,
  "min_api": 1,
- "notes": "界面文案：装好后提示「文件已更新，重启后生效」，无更新提示「当前无更新」",
- "ts": 1794071730
+ "notes": "界面 v3：更新日志新增一条「由远端下发」标记，用于验证热更链路",
+ "ts": 1794071904
 }
