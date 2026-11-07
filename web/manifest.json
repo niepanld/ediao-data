@@ -1,9 +1,9 @@
 {
- "version": 1,
- "file": "web/index.html.gz",
- "sha256": "7f2841a34e61de1092693362ccafa248534a0e402890ebbd7e5a7d99bfc7aabb",
- "size": 284574,
+ "version": 2,
+ "file": "web/index.v2.html.gz",
+ "sha256": "8588acee9324643713ba6a1ecd989c5744b6b364fdfccc5734e9b11466bcae58",
+ "size": 284695,
  "min_api": 1,
- "notes": "首次界面热更包：设置→更新日志 新增「检查更新」",
- "ts": 1794071143
+ "notes": "界面文案：装好后提示「文件已更新，重启后生效」，无更新提示「当前无更新」",
+ "ts": 1794071730
 }
