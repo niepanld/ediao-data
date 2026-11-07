@@ -1,9 +1,9 @@
 {
- "version": 16,
- "file": "web/index.v16.html.gz",
- "sha256": "c8b56c37e7565cde87aa75737c463632d00c521e8b739ecf19aaf7097509a298",
- "size": 286558,
+ "version": 17,
+ "file": "web/index.v17.html.gz",
+ "sha256": "c39c7596ff3156f81f7c4e3a0d007a5b588bb16fb022c51bbcc92f80f251620c",
+ "size": 286588,
  "min_api": 1,
- "notes": "界面 v16：toast 层级 999→2000，设置页里终于能看到提示",
- "ts": 1794077217
+ "notes": "界面 v17：完整验证 toast + 待生效 + 立即生效（toast 层级已修）",
+ "ts": 1794077575
 }
