@@ -1,9 +1,9 @@
 {
- "version": 6,
- "file": "web/index.v6.html.gz",
- "sha256": "3b4e8e323c0912bfdaaa849dbfb33ad70a1eebac995606faa7463b9d25aab61d",
- "size": 285472,
+ "version": 7,
+ "file": "web/index.v7.html.gz",
+ "sha256": "242d955a03c054c9de31f9d52f733f4590ac82b694fd5114ac5a98d5bad9f9f3",
+ "size": 285825,
  "min_api": 1,
- "notes": "界面 v6：右上角 X 永远关窗口；设置页返回走 Esc 或左上箭头",
- "ts": 1794073901
+ "notes": "界面 v7：装好未重启时，「重启」入口常驻（再点检查更新也不会丢）",
+ "ts": 1794074187
 }
