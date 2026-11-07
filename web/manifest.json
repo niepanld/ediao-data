@@ -1,9 +1,9 @@
 {
- "version": 7,
- "file": "web/index.v7.html.gz",
- "sha256": "242d955a03c054c9de31f9d52f733f4590ac82b694fd5114ac5a98d5bad9f9f3",
+ "version": 8,
+ "file": "web/index.v8.html.gz",
+ "sha256": "e673bf2a5b654f705fe32498d792188238ca229549de6973a60206de4f3c1d0d",
  "size": 285825,
  "min_api": 1,
- "notes": "界面 v7：装好未重启时，「重启」入口常驻（再点检查更新也不会丢）",
- "ts": 1794074187
+ "notes": "界面 v8：修复点「重启」后弹「找不到网络路径」且不重启的问题",
+ "ts": 1794074492
 }
