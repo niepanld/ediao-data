@@ -1,0 +1,9 @@
+{
+ "version": 1,
+ "file": "web/index.html.gz",
+ "sha256": "7f2841a34e61de1092693362ccafa248534a0e402890ebbd7e5a7d99bfc7aabb",
+ "size": 284574,
+ "min_api": 1,
+ "notes": "首次界面热更包：设置→更新日志 新增「检查更新」",
+ "ts": 1794071143
+}
