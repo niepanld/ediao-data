@@ -1,9 +1,9 @@
 {
- "version": 11,
- "file": "web/index.v11.html.gz",
- "sha256": "3727550306b5074bb639329623d6ffa2a6120cfe2ccbdb4be53b41d6cac008c7",
- "size": 286136,
+ "version": 12,
+ "file": "web/index.v12.html.gz",
+ "sha256": "b17485ffa97c4b38e070c6e680e4d592fa10b275f33875c18edb1f277e485d99",
+ "size": 286176,
  "min_api": 1,
- "notes": "界面 v11：装好后自动重新加载，秒生效（不再重启进程）",
- "ts": 1794075983
+ "notes": "界面 v12：验证装完自动重新加载（进程不重启）",
+ "ts": 1794076347
 }
