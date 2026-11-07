@@ -1,9 +1,9 @@
 {
- "version": 13,
- "file": "web/index.v13.html.gz",
- "sha256": "48f63d8c4fc2cc60e14a8191d50ae6492c0c80723c337cf007ba791bceb045ef",
- "size": 286518,
+ "version": 14,
+ "file": "web/index.v14.html.gz",
+ "sha256": "4bc1ec07c49083f26781cdecee48615af5fbfafe9fbd7f911b12514b3b273195",
+ "size": 286555,
  "min_api": 1,
- "notes": "界面 v13：装完留在「已下载，点立即生效」，重载后停在原标签页",
- "ts": 1794076533
+ "notes": "界面 v14：验证「已下载 → 立即生效 → 停在原标签页」",
+ "ts": 1794076747
 }
