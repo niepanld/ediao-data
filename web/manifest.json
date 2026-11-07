@@ -1,9 +1,9 @@
 {
- "version": 8,
- "file": "web/index.v8.html.gz",
- "sha256": "e673bf2a5b654f705fe32498d792188238ca229549de6973a60206de4f3c1d0d",
+ "version": 9,
+ "file": "web/index.v9.html.gz",
+ "sha256": "13a7b9dc0b76e98be4faa1003ad9ad0dcf62b3840389a80235e71f9656328bbb",
  "size": 285825,
  "min_api": 1,
- "notes": "界面 v8：修复点「重启」后弹「找不到网络路径」且不重启的问题",
- "ts": 1794074492
+ "notes": "界面 v9：启动自动清理 _MEI 临时目录残留",
+ "ts": 1794074809
 }
