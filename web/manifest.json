@@ -1,9 +1,9 @@
 {
- "version": 9,
- "file": "web/index.v9.html.gz",
- "sha256": "13a7b9dc0b76e98be4faa1003ad9ad0dcf62b3840389a80235e71f9656328bbb",
- "size": 285825,
+ "version": 10,
+ "file": "web/index.v10.html.gz",
+ "sha256": "690b7247219193040fb52d0e80ae59df44fba9e49ae1de975755bbae173fc029",
+ "size": 285873,
  "min_api": 1,
- "notes": "界面 v9：启动自动清理 _MEI 临时目录残留",
- "ts": 1794074809
+ "notes": "界面 v10：验证「装好后自动重启」链路（客户端已修托盘释放）",
+ "ts": 1794075432
 }
