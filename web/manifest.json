@@ -1,9 +1,9 @@
 {
- "version": 4000,
- "file": "web/index.v4000.html.gz",
- "sha256": "4268ca9f852f9bc4f2a39bf958fdd48a44ac78716bbff0a43a099ca47385731e",
- "size": 286914,
+ "version": 4001,
+ "file": "web/index.v4001.html.gz",
+ "sha256": "2afcb0c53179eb11264a15f46f947068acb372a8e0d7556dd7dfba9b248c5675",
+ "size": 286951,
  "min_api": 1,
- "notes": "版本号统一为 v4.000；检查时显示「检测中…」；去掉可热更范围说明",
- "ts": 1794078899
+ "notes": "v4.001",
+ "ts": 1794079505
 }
