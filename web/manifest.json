@@ -1,9 +1,9 @@
 {
- "version": 15,
- "file": "web/index.v15.html.gz",
- "sha256": "0735f3bfb88ca27d3b231dad834c732609aebed42e383cb75260ed9e116a27af",
- "size": 286559,
+ "version": 16,
+ "file": "web/index.v16.html.gz",
+ "sha256": "c8b56c37e7565cde87aa75737c463632d00c521e8b739ecf19aaf7097509a298",
+ "size": 286558,
  "min_api": 1,
- "notes": "界面 v15：修复 toast 被设置页遮住（提示永远看不到）",
- "ts": 1794077193
+ "notes": "界面 v16：toast 层级 999→2000，设置页里终于能看到提示",
+ "ts": 1794077217
 }
