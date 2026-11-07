@@ -1,9 +1,9 @@
 {
- "version": 12,
- "file": "web/index.v12.html.gz",
- "sha256": "b17485ffa97c4b38e070c6e680e4d592fa10b275f33875c18edb1f277e485d99",
- "size": 286176,
+ "version": 13,
+ "file": "web/index.v13.html.gz",
+ "sha256": "48f63d8c4fc2cc60e14a8191d50ae6492c0c80723c337cf007ba791bceb045ef",
+ "size": 286518,
  "min_api": 1,
- "notes": "界面 v12：验证装完自动重新加载（进程不重启）",
- "ts": 1794076347
+ "notes": "界面 v13：装完留在「已下载，点立即生效」，重载后停在原标签页",
+ "ts": 1794076533
 }
