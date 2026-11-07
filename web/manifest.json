@@ -1,9 +1,9 @@
 {
- "version": 10,
- "file": "web/index.v10.html.gz",
- "sha256": "690b7247219193040fb52d0e80ae59df44fba9e49ae1de975755bbae173fc029",
- "size": 285873,
+ "version": 11,
+ "file": "web/index.v11.html.gz",
+ "sha256": "3727550306b5074bb639329623d6ffa2a6120cfe2ccbdb4be53b41d6cac008c7",
+ "size": 286136,
  "min_api": 1,
- "notes": "界面 v10：验证「装好后自动重启」链路（客户端已修托盘释放）",
- "ts": 1794075432
+ "notes": "界面 v11：装好后自动重新加载，秒生效（不再重启进程）",
+ "ts": 1794075983
 }
