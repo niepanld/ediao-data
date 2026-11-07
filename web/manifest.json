@@ -1,9 +1,9 @@
 {
- "version": 4,
- "file": "web/index.v4.html.gz",
- "sha256": "f1a8c956e358c27b17a869dcd67ac49937a18d5d80304fbe5e3b7404482b9990",
- "size": 284815,
+ "version": 5,
+ "file": "web/index.v5.html.gz",
+ "sha256": "6b8c026a96b79a6a8d4c6728d391a21ba5aabfc653115724730885acdf5351c6",
+ "size": 285542,
  "min_api": 1,
- "notes": "界面 v4：检查更新改为单次请求（避免两次取清单撞上不同 CDN 缓存）",
- "ts": 1794072201
+ "notes": "界面 v5：「重启」可点，确认后自动重启应用",
+ "ts": 1794073104
 }
