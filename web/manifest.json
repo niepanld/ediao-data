@@ -1,9 +1,9 @@
 {
- "version": 4021,
- "file": "web/index.v4021.html.gz",
- "sha256": "5ce1067e88f390aa580a1a3742bf5dc0a77c5110b89230e180d5daaca889d86f",
- "size": 288154,
+ "version": 4022,
+ "file": "web/index.v4022.html.gz",
+ "sha256": "fe073bf1f25972b5613ba1fec8b4f7c9867c8808980a2d4c7e8b08202116d1a6",
+ "size": 288406,
  "min_api": 1,
- "notes": "v4.021",
- "ts": 1794138651
+ "notes": "v4.020 版本号固定口径（显示不再跟随热更计数）",
+ "ts": 1794139639
 }
