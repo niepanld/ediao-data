@@ -1,9 +1,9 @@
 {
  "version": 4026,
  "file": "web/index.v4026.html.gz",
- "sha256": "821b65e684f5e2424c346fa525eb6388567affe181d30656b83d1106b55adb8c",
+ "sha256": "bda6f51719554c5344f21ea97117664ee85e772acdc19bae1776552c87b607ae",
  "size": 289896,
  "min_api": 1,
- "notes": "v4.025 修复天数筛选及其它若干bug",
- "ts": 1794245675
+ "notes": "v4.026 修复查询结果的天数筛选失败及其它若干bug",
+ "ts": 1794245718
 }
