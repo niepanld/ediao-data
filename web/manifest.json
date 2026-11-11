@@ -1,9 +1,9 @@
 {
- "version": 4026,
- "file": "web/index.v4026.html.gz",
- "sha256": "bda6f51719554c5344f21ea97117664ee85e772acdc19bae1776552c87b607ae",
- "size": 289896,
+ "version": 4027,
+ "file": "web/index.v4027.html.gz",
+ "sha256": "16a6ffb66b1b99220dd05c84a0a2abc39d65b6586fb4a5bdd1fbd41a165eea43",
+ "size": 292475,
  "min_api": 1,
- "notes": "v4.026 修复查询结果的天数筛选失败及其它若干bug",
- "ts": 1794245718
+ "notes": "v4.027 修复数据轮询2分钟即停、日志区分通道、远端日志",
+ "ts": 1794423510
 }
