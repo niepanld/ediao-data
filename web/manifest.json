@@ -1,9 +1,9 @@
 {
- "version": 4036,
- "file": "web/index.v4036.html.gz",
- "sha256": "3da3aade059df1b5eb8ce465864cb577b8eea4fb5a5f78fc7ca31c71cb9ff101",
- "size": 297222,
+ "version": 4037,
+ "file": "web/index.v4037.html.gz",
+ "sha256": "1bf295babc7f67f8bcee94c7c2924c4eeee289c85399cf5a51341b6799311519",
+ "size": 297553,
  "min_api": 1,
- "notes": "v4.036 修复首次安装误报新版本",
- "ts": 1794521868
+ "notes": "v4.037 支持无坐标投稿",
+ "ts": 1794522542
 }
