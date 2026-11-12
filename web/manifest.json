@@ -1,9 +1,9 @@
 {
- "version": 4027,
- "file": "web/index.v4027.html.gz",
- "sha256": "16a6ffb66b1b99220dd05c84a0a2abc39d65b6586fb4a5bdd1fbd41a165eea43",
- "size": 292475,
+ "version": 4028,
+ "file": "web/index.v4028.html.gz",
+ "sha256": "a0a5561b430e021dc46205222747d219f51290ddc913e610084d95bf5eea685f",
+ "size": 295903,
  "min_api": 1,
- "notes": "v4.027 修复数据轮询2分钟即停、日志区分通道、远端日志",
- "ts": 1794423510
+ "notes": "v4.028 启动预览改为内源最新24H、按投稿时间倒序、日期筛选按各源最新一条",
+ "ts": 1794487422
 }
