@@ -1,9 +1,9 @@
 {
- "version": 4030,
- "file": "web/index.v4030.html.gz",
- "sha256": "c161d1d3baa01cea632602f597666649f4efdaacb058c2d0a440f3ff5f3153d6",
+ "version": 4031,
+ "file": "web/index.v4031.html.gz",
+ "sha256": "f6eb49f1e96ef730773f6b11b79a4482e9d0e6d8f91c8d86cca13db04fe3847f",
  "size": 296291,
  "min_api": 1,
- "notes": "v4.030 修复「检查更新」按钮样式丢失",
- "ts": 1794489499
+ "notes": "v4.031 修复检查更新按钮样式",
+ "ts": 1794489582
 }
