@@ -1,9 +1,9 @@
 {
- "version": 4034,
- "file": "web/index.v4034.html.gz",
- "sha256": "a39d8867c4b35084d2305efc5067b0cdabe901c7b90808a069293c166cae4de2",
- "size": 297153,
+ "version": 4035,
+ "file": "web/index.v4035.html.gz",
+ "sha256": "c556137e71b69cfbe621eb3e9c8f8751278019cf74ac224ff286d719397254c6",
+ "size": 297193,
  "min_api": 1,
- "notes": "v4.034 修复同版本误报与「检测中」卡死",
- "ts": 1794491832
+ "notes": "v4.035 稀有鱼名单补充：拉多加鲟（粉标）",
+ "ts": 1794520568
 }
