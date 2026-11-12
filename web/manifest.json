@@ -1,9 +1,9 @@
 {
- "version": 4037,
- "file": "web/index.v4037.html.gz",
- "sha256": "1bf295babc7f67f8bcee94c7c2924c4eeee289c85399cf5a51341b6799311519",
- "size": 297553,
+ "version": 4038,
+ "file": "web/index.v4038.html.gz",
+ "sha256": "68a16c776989842cf450fa80ce9f307112f9261310f5964fc1b9fea8dfde46ea",
+ "size": 297903,
  "min_api": 1,
- "notes": "v4.037 支持无坐标投稿",
- "ts": 1794522542
+ "notes": "v4.038 坐标判定按地图边界",
+ "ts": 1794523355
 }
