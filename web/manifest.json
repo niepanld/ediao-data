@@ -1,9 +1,9 @@
 {
- "version": 4032,
- "file": "web/index.v4032.html.gz",
- "sha256": "117f437568e93b0e69437559ff218fd4f6715216f6cd406e007dca569270be63",
- "size": 296792,
+ "version": 4033,
+ "file": "web/index.v4033.html.gz",
+ "sha256": "6955a57e1a96e258a5bee88439448b63d2d11f4ec1b5aa69434cf6be7214bec7",
+ "size": 296896,
  "min_api": 1,
- "notes": "v4.032 修复下载入口单点依赖：开机自动预下载界面更新",
- "ts": 1794490925
+ "notes": "v4.033 红点自愈：无更新时自动清除",
+ "ts": 1794491275
 }
