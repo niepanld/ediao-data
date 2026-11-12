@@ -1,9 +1,9 @@
 {
- "version": 4028,
- "file": "web/index.v4028.html.gz",
- "sha256": "a0a5561b430e021dc46205222747d219f51290ddc913e610084d95bf5eea685f",
- "size": 295903,
+ "version": 4029,
+ "file": "web/index.v4029.html.gz",
+ "sha256": "ec82d617ca9b10e36aa99d0bfd63dbc756ebb0709a2e664386055a12ce137d5d",
+ "size": 296214,
  "min_api": 1,
- "notes": "v4.028 启动预览改为内源最新24H、按投稿时间倒序、日期筛选按各源最新一条",
- "ts": 1794487422
+ "notes": "v4.029 日志去掉加粗加色、旧副本不再覆盖新日志",
+ "ts": 1794488519
 }
