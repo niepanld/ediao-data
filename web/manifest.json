@@ -1,9 +1,9 @@
 {
- "version": 4031,
- "file": "web/index.v4031.html.gz",
- "sha256": "f6eb49f1e96ef730773f6b11b79a4482e9d0e6d8f91c8d86cca13db04fe3847f",
- "size": 296291,
+ "version": 4032,
+ "file": "web/index.v4032.html.gz",
+ "sha256": "117f437568e93b0e69437559ff218fd4f6715216f6cd406e007dca569270be63",
+ "size": 296792,
  "min_api": 1,
- "notes": "v4.031 修复检查更新按钮样式",
- "ts": 1794489582
+ "notes": "v4.032 修复下载入口单点依赖：开机自动预下载界面更新",
+ "ts": 1794490925
 }
