@@ -1,9 +1,9 @@
 {
- "version": 4029,
- "file": "web/index.v4029.html.gz",
- "sha256": "ec82d617ca9b10e36aa99d0bfd63dbc756ebb0709a2e664386055a12ce137d5d",
- "size": 296214,
+ "version": 4030,
+ "file": "web/index.v4030.html.gz",
+ "sha256": "c161d1d3baa01cea632602f597666649f4efdaacb058c2d0a440f3ff5f3153d6",
+ "size": 296291,
  "min_api": 1,
- "notes": "v4.029 日志去掉加粗加色、旧副本不再覆盖新日志",
- "ts": 1794488519
+ "notes": "v4.030 修复「检查更新」按钮样式丢失",
+ "ts": 1794489499
 }
