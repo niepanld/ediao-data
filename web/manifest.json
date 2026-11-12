@@ -1,9 +1,9 @@
 {
- "version": 4033,
- "file": "web/index.v4033.html.gz",
- "sha256": "6955a57e1a96e258a5bee88439448b63d2d11f4ec1b5aa69434cf6be7214bec7",
- "size": 296896,
+ "version": 4034,
+ "file": "web/index.v4034.html.gz",
+ "sha256": "a39d8867c4b35084d2305efc5067b0cdabe901c7b90808a069293c166cae4de2",
+ "size": 297153,
  "min_api": 1,
- "notes": "v4.033 红点自愈：无更新时自动清除",
- "ts": 1794491275
+ "notes": "v4.034 修复同版本误报与「检测中」卡死",
+ "ts": 1794491832
 }
