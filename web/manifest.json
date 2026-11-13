@@ -1,9 +1,9 @@
 {
- "version": 4039,
- "file": "web/index.v4039.html.gz",
- "sha256": "ab2f5582bd50a5ac1c8f7bf82c3c40f56984ed275f8f6eaca14f9ffd70f8ab2f",
- "size": 298076,
+ "version": 4040,
+ "file": "web/index.v4040.html.gz",
+ "sha256": "15d42cc43ae0a89d7585a871812e97bd133fd78ec48cb44be23f9dbbbe16b256",
+ "size": 298344,
  "min_api": 1,
- "notes": "v4.039 30分钟静默自动更新、立即应用",
- "ts": 1794561943
+ "notes": "v4.040 更新逻辑修复（静默自动更新/立即应用/回退版本号）",
+ "ts": 1794571086
 }
