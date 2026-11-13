@@ -1,9 +1,9 @@
 {
- "version": 4041,
- "file": "web/index.v4041.html.gz",
- "sha256": "e424f4997183f17a865c0a993929b3812bee25b3ea7692b884f813fc3665ff79",
- "size": 402639,
+ "version": 4042,
+ "file": "web/index.v4042.html.gz",
+ "sha256": "5b2888a74b60bb96c4f3bbccfc297f3c6128dc550441ac4bde2a611c5308cfd4",
+ "size": 402818,
  "min_api": 1,
- "notes": "v4.041 鱼钩拉力数据与图标、数据底层逻辑调整",
- "ts": 1794603809
+ "notes": "v4.042 无坐标记录卡头标注来源、宝典补卡补排行",
+ "ts": 1794606779
 }
