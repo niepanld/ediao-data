@@ -1,9 +1,9 @@
 {
- "version": 4038,
- "file": "web/index.v4038.html.gz",
- "sha256": "68a16c776989842cf450fa80ce9f307112f9261310f5964fc1b9fea8dfde46ea",
- "size": 297903,
+ "version": 4039,
+ "file": "web/index.v4039.html.gz",
+ "sha256": "ab2f5582bd50a5ac1c8f7bf82c3c40f56984ed275f8f6eaca14f9ffd70f8ab2f",
+ "size": 298076,
  "min_api": 1,
- "notes": "v4.038 坐标判定按地图边界",
- "ts": 1794523355
+ "notes": "v4.039 30分钟静默自动更新、立即应用",
+ "ts": 1794561943
 }
