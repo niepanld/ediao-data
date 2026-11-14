@@ -1,9 +1,9 @@
 {
- "version": 4042,
- "file": "web/index.v4042.html.gz",
- "sha256": "5b2888a74b60bb96c4f3bbccfc297f3c6128dc550441ac4bde2a611c5308cfd4",
- "size": 402818,
+ "version": 4043,
+ "file": "web/index.v4043.html.gz",
+ "sha256": "0bea99cc28cfdad4d9924bf417a4ee4cad7fd1ac1d95e1649986dee27e6e9905",
+ "size": 566618,
  "min_api": 1,
- "notes": "v4.042 无坐标记录卡头标注来源、宝典补卡补排行",
- "ts": 1794606779
+ "notes": "v4.043 鱼轮/鱼竿商品图、各表数值小数位统一",
+ "ts": 1794681017
 }
