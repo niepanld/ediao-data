@@ -1,9 +1,9 @@
 {
- "version": 4043,
- "file": "web/index.v4043.html.gz",
- "sha256": "0bea99cc28cfdad4d9924bf417a4ee4cad7fd1ac1d95e1649986dee27e6e9905",
- "size": 566618,
+ "version": 4044,
+ "file": "web/index.v4044.html.gz",
+ "sha256": "334b6686c61df5ec99b1b43106df687ec6dbb10795d0278dc625a4d1d96950fc",
+ "size": 663855,
  "min_api": 1,
- "notes": "v4.043 鱼轮/鱼竿商品图、各表数值小数位统一",
- "ts": 1794681017
+ "notes": "v4.044 bug 修复与 UI 调整",
+ "ts": 1794838304
 }
