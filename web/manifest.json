@@ -1,9 +1,9 @@
 {
- "version": 4044,
- "file": "web/index.v4044.html.gz",
- "sha256": "334b6686c61df5ec99b1b43106df687ec6dbb10795d0278dc625a4d1d96950fc",
- "size": 663855,
+ "version": 4045,
+ "file": "web/index.v4045.html.gz",
+ "sha256": "82b7971fe26f383296192c7e79788c58574e81ddc2c3814743dfb600bd043bfd",
+ "size": 675491,
  "min_api": 1,
- "notes": "v4.044 bug 修复与 UI 调整",
- "ts": 1794838304
+ "notes": "v4.045 增加资格任务查找功能",
+ "ts": 1794879965
 }
