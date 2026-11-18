@@ -1,9 +1,9 @@
 {
- "version": 4047,
- "file": "web/index.v4047.html.gz",
- "sha256": "5da489189677e787e7021dc0d35ab9a2fc7f9bdc4922b41e830261b08415ea48",
- "size": 687029,
+ "version": 4048,
+ "file": "web/index.v4048.html.gz",
+ "sha256": "8f795de8f45f1e0bbe1b81adab05fa4f383533a65981b08117eb831d82c30f81",
+ "size": 687015,
  "min_api": 1,
- "notes": "v4.047 增加部分鱼钩拉力数据",
- "ts": 1794960243
+ "notes": "v4.048 日志修正：鱼钩拉力数据归入 046",
+ "ts": 1794960704
 }
