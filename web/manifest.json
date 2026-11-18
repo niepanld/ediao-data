@@ -1,9 +1,9 @@
 {
- "version": 4046,
- "file": "web/index.v4046.html.gz",
- "sha256": "beb33013717a22ded93bd26fad729ab8b0d27e5ca15f161edd9fb285c0731c89",
- "size": 678415,
+ "version": 4047,
+ "file": "web/index.v4047.html.gz",
+ "sha256": "5da489189677e787e7021dc0d35ab9a2fc7f9bdc4922b41e830261b08415ea48",
+ "size": 687029,
  "min_api": 1,
- "notes": "v4.046 热门鱼点推荐",
- "ts": 1794935350
+ "notes": "v4.047 增加部分鱼钩拉力数据",
+ "ts": 1794960243
 }
