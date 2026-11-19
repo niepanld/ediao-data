@@ -1,9 +1,9 @@
 {
- "version": 4049,
- "file": "web/index.v4049.html.gz",
- "sha256": "00514eb24853246a690923c290a6dacbdcbd546b35be4c83a8a68a009c5c267a",
- "size": 692983,
+ "version": 4050,
+ "file": "web/index.v4050.html.gz",
+ "sha256": "47b686795ed6963c6ba7e619d10866b9fbbbdeaa6e0c161a112e1294043556a0",
+ "size": 693114,
  "min_api": 1,
- "notes": "v4.049 装配价格区 + 结果区动态显示",
- "ts": 1795052096
+ "notes": "v4.050 补给：页面兜底日志与远端对齐（049 内容）",
+ "ts": 1795052956
 }
