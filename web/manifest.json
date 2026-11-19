@@ -1,9 +1,9 @@
 {
- "file": "web/index.v4049.html.gz",
+ "version": 4051,
+ "file": "web/index.v4051.html.gz",
+ "sha256": "f991ba022b51b2824422bfe25a142f0de9fe9274339f43d62cc524cf25e86942",
+ "size": 694027,
  "min_api": 1,
- "notes": "v4.049 装配价格区 + 结果区动态显示（4050 已撤回）",
- "sha256": "00514eb24853246a690923c290a6dacbdcbd546b35be4c83a8a68a009c5c267a",
- "size": 692983,
- "ts": "2026-11-19 10:03:22",
- "version": 4049
+ "notes": "v4.051 修复 050 白屏（页面结构已修正）",
+ "ts": 1795057817
 }
