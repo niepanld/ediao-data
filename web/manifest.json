@@ -1,9 +1,9 @@
 {
- "version": 4051,
- "file": "web/index.v4051.html.gz",
- "sha256": "f991ba022b51b2824422bfe25a142f0de9fe9274339f43d62cc524cf25e86942",
- "size": 694027,
+ "version": 4052,
+ "file": "web/index.v4052.html.gz",
+ "sha256": "85ea87f3546ccce4eb1282a30af4c6b017d7b0be9c44a9def149778382476966",
+ "size": 697275,
  "min_api": 1,
- "notes": "v4.051 修复 050 白屏（页面结构已修正）",
- "ts": 1795057817
+ "notes": "v4.052 热门查询逻辑优化 + UI 微调",
+ "ts": 1795125939
 }
