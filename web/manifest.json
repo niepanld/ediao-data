@@ -1,9 +1,9 @@
 {
- "version": 4052,
- "file": "web/index.v4052.html.gz",
- "sha256": "85ea87f3546ccce4eb1282a30af4c6b017d7b0be9c44a9def149778382476966",
- "size": 697275,
+ "version": 4053,
+ "file": "web/index.v4053.html.gz",
+ "sha256": "6634f875e6fa8456640384f9a5b5f1276201b857f6d9173fff04a91b7d750920",
+ "size": 697193,
  "min_api": 1,
- "notes": "v4.052 热门查询逻辑优化 + UI 微调",
- "ts": 1795125939
+ "notes": "v4.053 日期筛选补卡修复 + 蓝字气泡 + 日志区留白",
+ "ts": 1795200250
 }
