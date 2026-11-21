@@ -1,9 +1,9 @@
 {
- "version": 4053,
- "file": "web/index.v4053.html.gz",
- "sha256": "6634f875e6fa8456640384f9a5b5f1276201b857f6d9173fff04a91b7d750920",
- "size": 697193,
+ "version": 4054,
+ "file": "web/index.v4054.html.gz",
+ "sha256": "e1267977f1c6e65faf4e0ab0c080f0239ec6e1624d981be1d78ba60f820a7be9",
+ "size": 698532,
  "min_api": 1,
- "notes": "v4.053 日期筛选补卡修复 + 蓝字气泡 + 日志区留白",
- "ts": 1795200250
+ "notes": "v4.054 端口区间可保存（页面+客户端）+ 日期筛选修复",
+ "ts": 1795291710
 }
