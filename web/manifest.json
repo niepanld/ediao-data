@@ -1,9 +1,9 @@
 {
- "version": 4055,
- "file": "web/index.v4055.html.gz",
- "sha256": "10645bb0fbb74bcd2d3c1de7638d5a8b35975e0723eaedaf5b97a8be006b4d84",
- "size": 701478,
+ "version": 4056,
+ "file": "web/index.v4056.html.gz",
+ "sha256": "35e8be92b2b0b82060612945bd6c9ba44f732a31fdce7e5aea2fd146b528d569",
+ "size": 641394,
  "min_api": 1,
- "notes": "v4.055 窗口加固(白屏/不显示窗口) + 客户端旧版标记 + 钓组规则/咖啡厅/端口页等页面修复",
- "ts": 1795609252
+ "notes": "v4.056 修复启动白屏(页面瘦身, WebView2 1.5MB 上限) + 过验证等待支持停止 + 钓组/咖啡厅/端口页等页面修复",
+ "ts": 1795617333
 }
