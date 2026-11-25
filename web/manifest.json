@@ -1,9 +1,9 @@
 {
- "version": 4058,
- "file": "web/index.v4058.html.gz",
- "sha256": "aaebedeb7c181ce274e67974889d87ffa52042b95e5797b393fc9c7afd3f1076",
- "size": 645355,
+ "version": 4059,
+ "file": "web/index.v4059.html.gz",
+ "sha256": "6c31b03b3b011efb07b8b97585ed79b12099161953809e262a8ef9a626bb322f",
+ "size": 646069,
  "min_api": 1,
- "notes": "v4.058 分享图带宝典截图(原图100%) + 卡片半宽/去页脚/去另存",
- "ts": 1795625757
+ "notes": "v4.059 分享图排版定稿（竖排头图/右对齐地图坐标/截图1:1/双列/水印）",
+ "ts": 1795638708
 }
