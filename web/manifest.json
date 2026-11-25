@@ -1,9 +1,9 @@
 {
- "version": 4057,
- "file": "web/index.v4057.html.gz",
- "sha256": "d9bf6726fb422a83bc79b9bfd0ba91660d031e70a6c00f81192ae3c477bc4733",
- "size": 644319,
+ "version": 4058,
+ "file": "web/index.v4058.html.gz",
+ "sha256": "aaebedeb7c181ce274e67974889d87ffa52042b95e5797b393fc9c7afd3f1076",
+ "size": 645355,
  "min_api": 1,
- "notes": "v4.057 点鱼名生成分享图(一键复制/另存) + 上批白屏修复与过验证停止",
- "ts": 1795624658
+ "notes": "v4.058 分享图带宝典截图(原图100%) + 卡片半宽/去页脚/去另存",
+ "ts": 1795625757
 }
