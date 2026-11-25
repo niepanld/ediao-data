@@ -1,9 +1,9 @@
 {
- "version": 4060,
- "file": "web/index.v4060.html.gz",
- "sha256": "1dc32a5b7237ace606e1c4178f6d312a8cced8a0518feb1031e8c4b1490ebc83",
- "size": 646307,
+ "version": 4061,
+ "file": "web/index.v4061.html.gz",
+ "sha256": "59b11ea84b2393c81a37caff1f5af163806d121a4cee203e3fc66fe3296d0f0f",
+ "size": 641349,
  "min_api": 1,
- "notes": "v4.060 修复分享图点击无法放大",
- "ts": 1795638887
+ "notes": "v4.061 移除「点鱼名生成分享图」功能",
+ "ts": 1795641526
 }
