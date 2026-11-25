@@ -3,7 +3,7 @@
  "file": "web/index.v4055.html.gz",
  "sha256": "10645bb0fbb74bcd2d3c1de7638d5a8b35975e0723eaedaf5b97a8be006b4d84",
  "size": 701478,
- "min_api": 2,
+ "min_api": 1,
  "notes": "v4.055 窗口加固(白屏/不显示窗口) + 客户端旧版标记 + 钓组规则/咖啡厅/端口页等页面修复",
  "ts": 1795609252
 }
