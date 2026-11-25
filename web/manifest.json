@@ -1,9 +1,9 @@
 {
- "version": 4056,
- "file": "web/index.v4056.html.gz",
- "sha256": "35e8be92b2b0b82060612945bd6c9ba44f732a31fdce7e5aea2fd146b528d569",
- "size": 641394,
+ "version": 4057,
+ "file": "web/index.v4057.html.gz",
+ "sha256": "d9bf6726fb422a83bc79b9bfd0ba91660d031e70a6c00f81192ae3c477bc4733",
+ "size": 644319,
  "min_api": 1,
- "notes": "v4.056 修复启动白屏(页面瘦身, WebView2 1.5MB 上限) + 过验证等待支持停止 + 钓组/咖啡厅/端口页等页面修复",
- "ts": 1795617333
+ "notes": "v4.057 点鱼名生成分享图(一键复制/另存) + 上批白屏修复与过验证停止",
+ "ts": 1795624658
 }
