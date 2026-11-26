@@ -1,9 +1,9 @@
 {
- "version": 4061,
- "file": "web/index.v4061.html.gz",
- "sha256": "59b11ea84b2393c81a37caff1f5af163806d121a4cee203e3fc66fe3296d0f0f",
- "size": 641349,
+ "version": 4062,
+ "file": "web/index.v4062.html.gz",
+ "sha256": "45474246a2335b6448ea8ece82a22da0807f55e0d31520891cc7e7648bf928d7",
+ "size": 642431,
  "min_api": 1,
- "notes": "v4.061 移除「点鱼名生成分享图」功能",
- "ts": 1795641526
+ "notes": "v4.062 表头「鱼获」+ 稀有标异体字 + 点位详情可看玩家标题/正文（可查看更多）+ 日志新块",
+ "ts": 1795718413
 }
